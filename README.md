@@ -12,7 +12,7 @@ I'm a passionate developer and aspiring AI Engineer. Currently, I'm focusing on 
 ### **Programming Languages & Frameworks:**
 - **Laravel** (PHP framework for backend development)
 - **React** (JavaScript library for building UI)
-- **JavaScript** & **TypeScript** (for web development)
+- **JavaScript** (for web development)
 
 ### **Databases:**
 - **MySQL** (for relational databases)
