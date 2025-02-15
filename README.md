@@ -1,21 +1,23 @@
-# Hi, I'm Wandi 👋
+# Hi, I'm Wandi 👋  
 
-I'm a passionate developer and aspiring AI Engineer. Currently, I'm focusing on learning Flutter and diving deeper into AI & Machine Learning.
+I'm a passionate developer and aspiring **AI Engineer**. Currently, I'm focusing on **Flutter, AI, and Fullstack Development** to build scalable and efficient applications.  
 
-## 🌱 What I'm Learning Now
-- 📱 **Flutter**: Building mobile applications with Flutter, exploring state management, and improving app UI/UX.
-- 🤖 **Artificial Intelligence (AI)**: Learning about Machine Learning, Deep Learning, and their applications in real-world problems.
-- 💻 **Fullstack Development**: Continuing to improve my skills with Laravel for backend and React for frontend development.
+## 🌱 What I'm Learning Now  
+- 📱 **Flutter**: Developing mobile apps, exploring state management, and enhancing UI/UX.  
+- 🤖 **Artificial Intelligence (AI)**: Studying Machine Learning, Deep Learning, and real-world AI applications.  
+- 🌐 **Fullstack Development**: Strengthening my skills in **Laravel** (backend), **React** (frontend), and **Node.js** (server-side development).  
+- 🚀 **Node.js**: Learning backend development with Express.js, RESTful APIs, and database integration.  
 
-## 💼 Skills
+## 💼 Skills  
 
-### **Programming Languages & Frameworks:**
-- **Laravel** (PHP framework for backend development)
-- **React** (JavaScript library for building UI)
-- **JavaScript** (for web development)
+### **Programming Languages & Frameworks:**  
+- **Flutter** (Cross-platform mobile app development)  
+- **Laravel** (PHP framework for backend development)  
+- **React** (JavaScript library for UI development)  
+- **JavaScript & TypeScript** (for web and server-side development)  
 
-### **Databases:**
-- **MySQL** (for relational databases)
+### **Databases:**  
+- **MySQL** (Relational database management)  
 
-## 📫 How to Reach Me:
-- 📧 [wandi.codes@gmail.com](mailto:wandi.codes@gmail.com
+## 📫 How to Reach Me:  
+- 📧 [wandi.codes@gmail.com](mailto:wandi.codes@gmail.com)  
