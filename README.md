@@ -1,6 +1,6 @@
 # Hi, I'm Wandi 👋  
 
-I'm a passionate developer and aspiring **AI Engineer**. Currently, I'm focusing on **Flutter, AI, and Fullstack Development** to build scalable and efficient applications.  
+I'm a passionate developer. Currently, I'm focusing on **Flutter, AI, and Fullstack Development** to build scalable and efficient applications.  
 
 ## 🌱 What I'm Learning Now  
 - 📱 **Flutter**: Developing mobile apps, exploring state management, and enhancing UI/UX.  
