@@ -1,23 +1,23 @@
 # 👋 Hey there! I'm Wandi
 
-I'm a passionate and driven developer on a journey to create cutting-edge, scalable, and efficient applications. Currently diving deep into **Flutter**, **AI**, and **Fullstack Development**, I'm all about crafting seamless experiences and building powerful solutions.
+I'm a developer passionate about **Flutter**, and **Fullstack Development**, dedicated to crafting seamless and scalable applications.
 
-## 🌱 What's Fueling My Learning Right Now
-- 📱 **Flutter**: Designing and developing smooth, beautiful mobile apps while mastering state management and crafting top-notch UI/UX.  
-- 🤖 **Artificial Intelligence (AI)**: Exploring the world of Machine Learning, Deep Learning, and AI applications that solve real-world problems.  
-- 🌐 **Fullstack Development**: Sharpening my expertise in **Laravel** for backend, **React** for frontend, and **Node.js** for full server-side development.  
-- 🚀 **Node.js**: Diving into backend development with Express.js, building RESTful APIs, and working with databases to power dynamic applications.
+## 🌱 Currently Learning
+- 📱 **Flutter** – Building smooth, beautiful mobile apps with great UI/UX.  
+- 🌐 **Fullstack Development** – Mastering **Laravel** (backend), **React** (frontend), and **Node.js** (server-side).  
+- 🛢 **MongoDB** – Managing NoSQL databases for modern applications.  
 
 ## 💼 My Skillset
 
-### **Languages & Frameworks I Love:**
-- **Flutter** (Building cross-platform apps with speed and elegance)  
-- **Laravel** (Crafting powerful backends in PHP)  
-- **React** (Creating interactive UIs with JavaScript)  
-- **JavaScript & TypeScript** (Mastering the full stack)  
+### **Languages & Frameworks:**
+- **Flutter** – Cross-platform app development  
+- **Laravel** – Robust backend development  
+- **React** – Interactive UIs with JavaScript  
+- **Node.js** – RESTful APIs & server-side logic  
 
 ### **Databases:**
-- **MySQL** (Managing structured data efficiently)  
+- **MySQL** – Structured data management  
+- **MongoDB** – NoSQL database for scalable apps  
 
-## 📫 How to Reach Me
-- 📧 [wandi.codes@gmail.com](mailto:wandi.codes@gmail.com)
+## 📫 Contact Me
+📧 [wandi.codes@gmail.com](mailto:wandi.codes@gmail.com)
