@@ -1,23 +1,28 @@
-# 👋 Hey there! I'm Wandi
+# 👋 Hey there! I'm Wandi  
 
-I'm a developer passionate about **Flutter**, and **Fullstack Development**, dedicated to crafting seamless and scalable applications.
+🚀 Passionate about **Flutter** & **Fullstack Development**, building seamless and scalable applications.  
 
-## 🌱 Currently Learning
-- 📱 **Flutter** – Building smooth, beautiful mobile apps with great UI/UX.  
-- 🌐 **Fullstack Development** – Mastering **Laravel** (backend), **React** (frontend), and **Node.js** (server-side).  
-- 🛢 **MongoDB** – Managing NoSQL databases for modern applications.  
+---
 
-## 💼 My Skillset
+## 🌱 Currently Learning  
+🔹 **📱 Flutter** – Crafting beautiful, high-performance mobile apps.  
+🔹 **🌐 Fullstack Development** – Mastering **Laravel** (backend), **React** (frontend), and **Node.js** (server-side).  
+🔹 **🛠 Node.js** – RESTful APIs & backend logic.  
+🔹 **🛢 MongoDB** – Managing NoSQL databases for scalable applications.  
 
-### **Languages & Frameworks:**
-- **Flutter** – Cross-platform app development  
-- **Laravel** – Robust backend development  
-- **React** – Interactive UIs with JavaScript  
-- **Node.js** – RESTful APIs & server-side logic  
+---
 
-### **Databases:**
-- **MySQL** – Structured data management  
-- **MongoDB** – NoSQL database for scalable apps  
+## 💼 My Skillset  
 
-## 📫 Contact Me
+### 🖥 **Languages & Frameworks:**  
+✅ **Flutter** – Cross-platform app development  
+✅ **Laravel** – Robust backend solutions  
+✅ **React** – Interactive UIs with JavaScript  
+
+### 🗄 **Databases:**  
+💾 **MySQL** – Structured data management  
+
+---
+
+## 📫 Contact Me  
 📧 [wandi.codes@gmail.com](mailto:wandi.codes@gmail.com)
