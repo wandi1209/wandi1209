@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wandi</h1>
 <h3 align="center">🚀 Passionate about Flutter & Fullstack Development, building seamless and scalable applications.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wandi1209&label=Profile%20views&color=0e75b6&style=flat" alt="wandi1209" />
-</p>
-
 - 📫 How to reach me: **wandi.codes@gmail.com**
 
 ---
