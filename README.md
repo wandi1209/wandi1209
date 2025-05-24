@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wandi</h1>
 <h3 align="center">🚀 Passionate about Flutter & Fullstack Development, building seamless and scalable applications.</h3>
 
-- 📫 How to reach me: **wandi.codes@gmail.com**
+- 📫 How to reach me: **wandider@gmail.com**
 
 ---
 
