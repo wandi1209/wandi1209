@@ -91,11 +91,6 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wandi1209&show_icons=true&locale=en&layout=compact" alt="wandi1209" />
 </p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wandi1209&show_icons=true&locale=en" alt="wandi1209" />
-</p>
-
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wandi1209" alt="wandi1209" />
 </p>
