@@ -20,14 +20,5 @@ I'm a **passionate Fullstack & Mobile Developer** specializing in **Flutter, Nod
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-## Featured Projects
-### [Expense Tracker App](#)
-A mobile application built with **Flutter & Firebase** to manage personal expenses efficiently.
-
-### [Car Rental App](#)
-A fullstack application built using **Flutter, Node.js, and MongoDB** for seamless car rental management.
-
----
-
 ⭐ Connect with me:  
-[LinkedIn](https://www.linkedin.com/in/wandidev) | [Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/wandidev)
