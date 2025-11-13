@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Wandi Wan
+# Hi there 👋, I'm Wandi
 
 ## About Me
 I'm a **passionate Fullstack & Mobile Developer** specializing in **Flutter, Node.js, Laravel, and modern web technologies**. I love building efficient and scalable applications, and I’m always eager to learn new technologies to improve my skills.
