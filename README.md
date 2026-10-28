@@ -100,7 +100,7 @@ Turns long videos into structured lessons: transcript-aware summaries, chapters,
 <div align="center">
 
 <a href="https://github.com/wandi1209">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wandi1209&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=1B1B1B&title_color=FACC15&text_color=EAE5DF&icon_color=FACC15" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wandi1209&show_icons=true&hide_border=true&rank_icon=github&bg_color=1B1B1B&title_color=FACC15&text_color=EAE5DF&icon_color=FACC15" alt="GitHub stats" />
 </a>
 <a href="https://github.com/wandi1209?tab=repositories">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandi1209&layout=compact&langs_count=8&hide_border=true&bg_color=1B1B1B&title_color=FACC15&text_color=EAE5DF" alt="Top languages" />
@@ -109,7 +109,7 @@ Turns long videos into structured lessons: transcript-aware summaries, chapters,
 <br />
 
 <a href="https://github.com/wandi1209">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wandi1209&bg_color=1B1B1B&color=EAE5DF&line=FACC15&point=EAE5DF&area=true&hide_border=true&custom_title=Contribution%20activity" alt="Contribution activity" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wandi1209&theme=github_dark" alt="Contribution summary" />
 </a>
 
 </div>
