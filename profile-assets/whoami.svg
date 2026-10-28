@@ -1,66 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430" role="img" aria-labelledby="title desc">
-  <title id="title">wandi@malang — whoami</title>
-  <desc id="desc">Terminal card: software engineer, web and mobile. Focus: Go, Laravel, REST APIs, PostgreSQL; Flutter, Dart, clean architecture; React, Next.js, Tailwind CSS. Now: Software Engineer at Beinsoft, D-IV Informatics Engineering at Politeknik Negeri Malang, Head of Frontend Development Division at Workshop Riset Informatika.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" role="img" aria-labelledby="title desc">
+  <title id="title">Wandi — software engineer, web and mobile</title>
+  <desc id="desc">Software Engineer building web and mobile systems. Backend: Go, Laravel, REST APIs, PostgreSQL. Mobile: Flutter, Dart, clean architecture. Frontend: React, Next.js, Tailwind CSS. Now: Software Engineer at Beinsoft; D-IV Informatics Engineering at Politeknik Negeri Malang; Head of Frontend Development Division at Workshop Riset Informatika.</desc>
 
   <defs>
     <style>
-      .bar { fill: #232220; }
-      .shell { fill: #EAE5DF; }
+      .display { font-family: 'Space Grotesk', 'Helvetica Neue', Arial, sans-serif; }
+      .label { font-family: 'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace; }
+      .cream { fill: #EAE5DF; }
+      .soft { fill: #B8B2AA; }
       .muted { fill: #8A857E; }
       .gold { fill: #FACC15; }
-      .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Menlo, Consolas, monospace; }
     </style>
   </defs>
 
-  <!-- Canvas -->
-  <rect x="0.5" y="0.5" width="999" height="429" rx="16" fill="#1B1B1B" stroke="#2E2C29" />
+  <rect x="0.5" y="0.5" width="999" height="559" rx="20" fill="#1B1B1B" stroke="#2E2C29" />
 
-  <!-- Title bar -->
-  <path d="M0.5 16.5a16 16 0 0 1 16-16h967a16 16 0 0 1 16 16V46.5H0.5z" fill="#232220" />
-  <circle cx="32" cy="24" r="4.5" class="gold" />
-  <circle cx="50" cy="24" r="4.5" fill="#EAE5DF" opacity="0.28" />
-  <circle cx="68" cy="24" r="4.5" fill="#EAE5DF" opacity="0.14" />
-  <text x="500" y="28" text-anchor="middle" class="mono muted" font-size="11" letter-spacing="1.6">wandi@malang — zsh</text>
-  <line x1="0.5" y1="46.5" x2="999.5" y2="46.5" stroke="#2E2C29" />
+  <!-- Eyebrow -->
+  <rect x="56" y="66" width="7" height="7" rx="1.5" class="gold" />
+  <text x="76" y="74" class="label gold" font-size="11" letter-spacing="3.4">PROFILE</text>
+  <text x="944" y="74" text-anchor="end" class="label muted" font-size="11" letter-spacing="2.6">MALANG, ID · UTC+7</text>
 
-  <!-- whoami -->
-  <text x="40" y="98" class="mono" font-size="15">
-    <tspan class="gold">wandi@malang</tspan><tspan class="muted"> ~ % </tspan><tspan class="shell">whoami</tspan>
-  </text>
-  <text x="40" y="126" class="mono" font-size="15">
-    <tspan class="shell">software engineer</tspan><tspan class="gold"> · </tspan><tspan class="shell">web &amp; mobile</tspan>
-  </text>
+  <!-- Statement -->
+  <text x="56" y="158" class="display cream" font-size="46" font-weight="700" letter-spacing="-1.4">Software Engineer</text>
+  <text x="56" y="208" class="display cream" font-size="46" font-weight="700" letter-spacing="-1.4">building web &amp; mobile systems.</text>
 
-  <!-- focus -->
-  <text x="40" y="172" class="mono" font-size="15">
-    <tspan class="gold">wandi@malang</tspan><tspan class="muted"> ~ % </tspan><tspan class="shell">cat focus.txt</tspan>
-  </text>
-  <text x="40" y="200" class="mono" font-size="15">
-    <tspan class="muted">backend</tspan><tspan x="150" class="gold">→</tspan><tspan x="182" class="shell">Go, Laravel, REST APIs, PostgreSQL</tspan>
-  </text>
-  <text x="40" y="226" class="mono" font-size="15">
-    <tspan class="muted">mobile</tspan><tspan x="150" class="gold">→</tspan><tspan x="182" class="shell">Flutter, Dart, clean architecture</tspan>
-  </text>
-  <text x="40" y="252" class="mono" font-size="15">
-    <tspan class="muted">frontend</tspan><tspan x="150" class="gold">→</tspan><tspan x="182" class="shell">React, Next.js, Tailwind CSS</tspan>
-  </text>
+  <line x1="56" y1="248" x2="944" y2="248" stroke="#2E2C29" />
 
-  <!-- now -->
-  <text x="40" y="298" class="mono" font-size="15">
-    <tspan class="gold">wandi@malang</tspan><tspan class="muted"> ~ % </tspan><tspan class="shell">ls now/</tspan>
-  </text>
-  <text x="40" y="326" class="mono" font-size="15">
-    <tspan class="gold">beinsoft/</tspan><tspan x="250" class="shell">software engineer</tspan>
-  </text>
-  <text x="40" y="352" class="mono" font-size="15">
-    <tspan class="gold">polinema/</tspan><tspan x="250" class="shell">d-iv informatics engineering</tspan>
-  </text>
-  <text x="40" y="378" class="mono" font-size="15">
-    <tspan class="gold">workshop-riset/</tspan><tspan x="250" class="shell">head of frontend development division</tspan>
-  </text>
+  <!-- Focus columns -->
+  <text x="56" y="290" class="label muted" font-size="10.5" letter-spacing="2.8">BACKEND</text>
+  <text x="56" y="322" class="display cream" font-size="18">Go · Laravel</text>
+  <text x="56" y="348" class="display soft" font-size="18">REST · PostgreSQL</text>
 
-  <!-- Cursor -->
-  <rect x="40" y="394" width="9" height="16" class="gold" opacity="0.85">
-    <animate attributeName="opacity" values="0.85;0.85;0;0;0.85" dur="1.2s" repeatCount="indefinite" />
-  </rect>
+  <text x="372" y="290" class="label muted" font-size="10.5" letter-spacing="2.8">MOBILE</text>
+  <text x="372" y="322" class="display cream" font-size="18">Flutter · Dart</text>
+  <text x="372" y="348" class="display soft" font-size="18">Clean architecture</text>
+
+  <text x="688" y="290" class="label muted" font-size="10.5" letter-spacing="2.8">FRONTEND</text>
+  <text x="688" y="322" class="display cream" font-size="18">React · Next.js</text>
+  <text x="688" y="348" class="display soft" font-size="18">Tailwind CSS</text>
+
+  <line x1="56" y1="392" x2="944" y2="392" stroke="#2E2C29" />
+
+  <!-- Now -->
+  <text x="56" y="432" class="label gold" font-size="10.5" letter-spacing="2.8">NOW</text>
+
+  <text x="56" y="468" class="display cream" font-size="16">Software Engineer</text>
+  <text x="400" y="468" class="display muted" font-size="16">Beinsoft</text>
+
+  <text x="56" y="500" class="display cream" font-size="16">D-IV Informatics Engineering</text>
+  <text x="400" y="500" class="display muted" font-size="16">Politeknik Negeri Malang</text>
+
+  <text x="56" y="532" class="display cream" font-size="16">Head of Frontend Development</text>
+  <text x="400" y="532" class="display muted" font-size="16">Workshop Riset Informatika</text>
 </svg>
