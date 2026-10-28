@@ -1,72 +1,154 @@
 <div align="center">
 
-# Wandi
+<a href="https://wandidev.my.id">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=1400&color=D97706&center=true&vCenter=true&width=780&height=72&lines=Software+Engineer+%E2%80%94+web+%26+mobile;Go+%C2%B7+Laravel+%C2%B7+Flutter+%C2%B7+React;I+build+systems+that+ship"
+    alt="Software Engineer — web & mobile"
+  />
+</a>
 
-**Software Engineer — web & mobile.**<br />
-I build production systems end to end: Go and Laravel backends, Flutter apps, and React front ends.
+### Hi, I'm Wandi
 
-[Portfolio](https://wandidev.my.id) · [LinkedIn](https://www.linkedin.com/in/wandidev) · [Email](mailto:wandider@gmail.com)
+I build production systems end to end — Go and Laravel backends, Flutter apps, React front ends.<br />
+Based in Malang, Indonesia · open to remote and hybrid roles.
+
+[![Portfolio](https://img.shields.io/badge/wandidev.my.id-1B1B1B?style=for-the-badge&logo=googlechrome&logoColor=FACC15)](https://wandidev.my.id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wandidev)
+[![Email](https://img.shields.io/badge/Email-EAE5DF?style=for-the-badge&logo=gmail&logoColor=1B1B1B)](mailto:wandider@gmail.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=wandi1209&style=flat-square&color=D97706&label=profile%20views)
+![Followers](https://img.shields.io/github/followers/wandi1209?style=flat-square&color=D97706&labelColor=1B1B1B)
 
 </div>
 
 ---
 
-## Currently
+## `$ whoami`
 
-- **Software Engineer at Beinsoft** — Go services, Odoo ERP modules, and AI features inside Moodle LMS
-- **D-IV Informatics Engineering**, Politeknik Negeri Malang
-- Based in Malang, East Java, Indonesia (UTC+7) — open to remote and hybrid work
+```console
+wandi@malang ~ % whoami
+software engineer · web & mobile
 
-## Selected work
+wandi@malang ~ % cat focus.txt
+backend   → Go, Laravel, REST APIs, PostgreSQL
+mobile    → Flutter, Dart, clean architecture
+frontend  → React, Next.js, Tailwind CSS
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| **[Sikamo](https://sikamo.wandidev.my.id)** | SaaS POS for SMEs: dynamic QRIS payments, WhatsApp receipts, multi-outlet | Laravel · Reverb · Filament · MySQL |
-| **[JDHub](https://jdhub.wandidev.my.id)** | Document management centre with AI-assisted extraction | Laravel 12 · Alpine.js · Gemini AI |
-| **[HealthMind AI](https://github.com/wandi1209/health-mind)** | Mental-health companion app built on clean architecture | Flutter · Supabase · Gemini AI · BLoC |
-| **[Expense Tracker](https://github.com/wandi1209/expense_tracker_app)** | Pocket-based finance tracker, shipped through CI releases | Flutter · Firebase · ML Kit · GitHub Actions |
-
-More at **[wandidev.my.id](https://wandidev.my.id)**.
+wandi@malang ~ % ls now/
+beinsoft/          software engineer
+polinema/          d-iv informatics engineering
+workshop-riset/    head of frontend development division
+```
 
 ## Stack
 
-**Languages**
+<div align="center">
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+<img src="https://skillicons.dev/icons?i=go,js,dart,php,java,laravel,flutter,nextjs,react,nodejs&theme=dark&perline=10" alt="Languages and frameworks" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase,mongodb,linux,git,github,postman,vscode&theme=dark&perline=10" alt="Data and tooling" />
 
-**Frameworks & runtime**
+</div>
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+## Selected work
 
-**Data & infrastructure**
+<details>
+<summary><b>Sikamo</b> &nbsp;·&nbsp; SaaS POS platform for SMEs &nbsp;·&nbsp; <a href="https://sikamo.wandidev.my.id">live ↗</a></summary>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<br />
+
+Point-of-sale built for small shops: dynamic QRIS payments, WhatsApp receipts, multi-outlet inventory, and a Filament admin panel.
+
+`Laravel` `Reverb` `Filament` `Fonnte` `MySQL`
+
+</details>
+
+<details>
+<summary><b>JDHub</b> &nbsp;·&nbsp; Document management centre &nbsp;·&nbsp; <a href="https://jdhub.wandidev.my.id">live ↗</a></summary>
+
+<br />
+
+Central document repository with AI-assisted metadata extraction, so staff stop filing the same paperwork twice.
+
+`Laravel 12` `Alpine.js` `Tailwind v4` `Vite` `Gemini AI`
+
+</details>
+
+<details>
+<summary><b>HealthMind AI</b> &nbsp;·&nbsp; Mental-health companion &nbsp;·&nbsp; <a href="https://github.com/wandi1209/health-mind">source ↗</a></summary>
+
+<br />
+
+Mobile app with an AI companion, offline-first storage, and a clean-architecture Flutter codebase split into features and layers.
+
+`Flutter` `Supabase` `Gemini AI` `ML Kit` `BLoC`
+
+</details>
+
+<details>
+<summary><b>Expense Tracker</b> &nbsp;·&nbsp; Pocket-based finance tracker &nbsp;·&nbsp; <a href="https://github.com/wandi1209/expense_tracker_app/releases/latest">release ↗</a></summary>
+
+<br />
+
+Personal finance app that reads receipt totals from the camera and ships signed builds through GitHub Actions.
+
+`Flutter` `Firebase` `Firestore` `ML Kit` `GitHub Actions`
+
+</details>
+
+<details>
+<summary><b>Edusam</b> &nbsp;·&nbsp; Learn from YouTube videos with AI</summary>
+
+<br />
+
+Turns long videos into structured lessons: transcript-aware summaries, chapters, and quizzes generated on demand.
+
+`Next.js` `TypeScript` `Tailwind v4` `Supabase` `Gemini AI` `YouTube Data API`
+
+</details>
+
+## GitHub
+
+<div align="center">
+
+<a href="https://github.com/wandi1209">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wandi1209&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=1B1B1B&title_color=FACC15&text_color=EAE5DF&icon_color=FACC15" alt="GitHub stats" />
+</a>
+<a href="https://github.com/wandi1209?tab=repositories">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandi1209&layout=compact&langs_count=8&hide_border=true&bg_color=1B1B1B&title_color=FACC15&text_color=EAE5DF" alt="Top languages" />
+</a>
+
+<br />
+
+<a href="https://github.com/wandi1209">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wandi1209&bg_color=1B1B1B&color=EAE5DF&line=FACC15&point=EAE5DF&area=true&hide_border=true&custom_title=Contribution%20activity" alt="Contribution activity" />
+</a>
+
+</div>
+
+<!--
+  Optional: the contribution snake. It needs a workflow in this profile repo
+  (.github/workflows/snake.yml) that renders the SVG on a schedule. Until that
+  exists, the image below would 404 — so it stays commented out.
+
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/wandi1209/wandi1209/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+  </div>
+-->
 
 ## Highlights
 
 - 18+ projects delivered, from internal hospital systems to SaaS products in production
-- Mentored 20+ students as part of Workshop Riset Informatika, now leading its Frontend division
-- Served systems handling 500+ concurrent users
+- Mentored 20+ students at Workshop Riset Informatika; now leading its Frontend division
+- Systems serving 500+ concurrent users
+- Comfortable owning a feature end to end: schema → API → UI → deployment
 
 ---
 
 <div align="center">
 
-**Open to software engineering roles and interesting freelance work.**<br />
+**Got a system that needs building?**<br />
 [wandider@gmail.com](mailto:wandider@gmail.com) · [LinkedIn](https://www.linkedin.com/in/wandidev) · [Instagram](https://instagram.com/wnd_130)
+
+<sub><i>Last updated: October 2026</i></sub>
 
 </div>
