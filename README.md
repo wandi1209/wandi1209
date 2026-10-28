@@ -23,22 +23,11 @@ Based in Malang, Indonesia · open to remote and hybrid roles.
 
 ---
 
-## `$ whoami`
+## About
 
-```console
-wandi@malang ~ % whoami
-software engineer · web & mobile
-
-wandi@malang ~ % cat focus.txt
-backend   → Go, Laravel, REST APIs, PostgreSQL
-mobile    → Flutter, Dart, clean architecture
-frontend  → React, Next.js, Tailwind CSS
-
-wandi@malang ~ % ls now/
-beinsoft/          software engineer
-polinema/          d-iv informatics engineering
-workshop-riset/    head of frontend development division
-```
+<p align="center">
+  <img src="profile-assets/whoami.svg" alt="wandi@malang: software engineer, web and mobile. Backend: Go, Laravel, REST APIs, PostgreSQL. Mobile: Flutter, Dart, clean architecture. Frontend: React, Next.js, Tailwind CSS. Now: Software Engineer at Beinsoft, D-IV Informatics Engineering at Politeknik Negeri Malang, Head of Frontend Development Division at Workshop Riset Informatika." width="100%" />
+</p>
 
 ## Stack
 
