@@ -9,7 +9,7 @@
 
 ### Hi, I'm Wandi
 
-I build production systems end to end — Go and Laravel backends, Flutter apps, React front ends.<br />
+I build production systems end to end - Go and Laravel backends, Flutter apps, Next.js front ends.<br />
 Based in Malang, Indonesia · open to remote and hybrid roles.
 
 [![Portfolio](https://img.shields.io/badge/wandidev.my.id-1B1B1B?style=for-the-badge&logo=googlechrome&logoColor=FACC15)](https://wandidev.my.id)
