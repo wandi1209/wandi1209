@@ -138,6 +138,6 @@ Turns long videos into structured lessons: transcript-aware summaries, chapters,
 **Got a system that needs building?**<br />
 [wandider@gmail.com](mailto:wandider@gmail.com) · [LinkedIn](https://www.linkedin.com/in/wandidev) · [Instagram](https://instagram.com/wnd_130)
 
-<sub><i>Last updated: October 2026</i></sub>
+<sub><i>Last updated: Nevember 2026</i></sub>
 
 </div>
