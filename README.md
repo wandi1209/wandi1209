@@ -95,35 +95,6 @@ Turns long videos into structured lessons: transcript-aware summaries, chapters,
 
 </details>
 
-## GitHub
-
-<div align="center">
-
-<a href="https://github.com/wandi1209">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wandi1209&show_icons=true&hide_border=true&rank_icon=github&bg_color=1B1B1B&title_color=FACC15&text_color=EAE5DF&icon_color=FACC15" alt="GitHub stats" />
-</a>
-<a href="https://github.com/wandi1209?tab=repositories">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wandi1209&layout=compact&langs_count=8&hide_border=true&bg_color=1B1B1B&title_color=FACC15&text_color=EAE5DF" alt="Top languages" />
-</a>
-
-<br />
-
-<a href="https://github.com/wandi1209">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wandi1209&theme=github_dark" alt="Contribution summary" />
-</a>
-
-</div>
-
-<!--
-  Optional: the contribution snake. It needs a workflow in this profile repo
-  (.github/workflows/snake.yml) that renders the SVG on a schedule. Until that
-  exists, the image below would 404 — so it stays commented out.
-
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/wandi1209/wandi1209/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
-  </div>
--->
-
 ## Highlights
 
 - 18+ projects delivered, from internal hospital systems to SaaS products in production
